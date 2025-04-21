@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|c:\\users\\vishal waman\\source\\repos\\crud project mvc\\crud project mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|solutionrelative:crud project mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|c:\\users\\vishal waman\\source\\repos\\crud project mvc\\crud project mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|solutionrelative:crud project mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|c:\\users\\vishal waman\\source\\repos\\crud project mvc\\crud project mvc\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|solutionrelative:crud project mvc\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|c:\\users\\vishal waman\\source\\repos\\crud project mvc\\crud project mvc\\repository\\istudentrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|solutionrelative:crud project mvc\\repository\\istudentrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|c:\\users\\vishal waman\\source\\repos\\crud project mvc\\crud project mvc\\repository\\studentrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|solutionrelative:crud project mvc\\repository\\studentrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|c:\\users\\vishal waman\\source\\repos\\crud project mvc\\crud project mvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|solutionrelative:crud project mvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|c:\\users\\vishal waman\\source\\repos\\crud project mvc\\crud project mvc\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40977339-38D1-4078-8DDF-80FDF761F9C4}|Crud Project MVC\\Crud Project MVC.csproj|solutionrelative:crud project mvc\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Crud Project MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Crud Project MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T11:48:05.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "Crud Project MVC\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "Crud Project MVC\\Views\\Student\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T11:24:44.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Crud Project MVC\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Crud Project MVC\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T11:24:18.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "Crud Project MVC\\Views\\Student\\List.cshtml",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "Crud Project MVC\\Views\\Student\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T10:42:25.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRL.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Repository\\StudentRL.cs",
+              "RelativeDocumentMoniker": "Crud Project MVC\\Repository\\StudentRL.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Repository\\StudentRL.cs",
+              "RelativeToolTip": "Crud Project MVC\\Repository\\StudentRL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:12:31.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRL.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Repository\\IStudentRL.cs",
+              "RelativeDocumentMoniker": "Crud Project MVC\\Repository\\IStudentRL.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Repository\\IStudentRL.cs",
+              "RelativeToolTip": "Crud Project MVC\\Repository\\IStudentRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:12:23.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Crud Project MVC\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\Crud Project MVC\\Crud Project MVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Crud Project MVC\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:30:55.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
